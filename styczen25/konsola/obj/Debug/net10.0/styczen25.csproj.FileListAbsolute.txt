@@ -1,0 +1,14 @@
+/home/filip/egzmainy/styczen25/bin/Debug/net10.0/styczen25
+/home/filip/egzmainy/styczen25/bin/Debug/net10.0/styczen25.deps.json
+/home/filip/egzmainy/styczen25/bin/Debug/net10.0/styczen25.runtimeconfig.json
+/home/filip/egzmainy/styczen25/bin/Debug/net10.0/styczen25.dll
+/home/filip/egzmainy/styczen25/bin/Debug/net10.0/styczen25.pdb
+/home/filip/egzmainy/styczen25/obj/Debug/net10.0/styczen25.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/egzmainy/styczen25/obj/Debug/net10.0/styczen25.AssemblyInfoInputs.cache
+/home/filip/egzmainy/styczen25/obj/Debug/net10.0/styczen25.AssemblyInfo.cs
+/home/filip/egzmainy/styczen25/obj/Debug/net10.0/styczen25.csproj.CoreCompileInputs.cache
+/home/filip/egzmainy/styczen25/obj/Debug/net10.0/styczen25.dll
+/home/filip/egzmainy/styczen25/obj/Debug/net10.0/refint/styczen25.dll
+/home/filip/egzmainy/styczen25/obj/Debug/net10.0/styczen25.pdb
+/home/filip/egzmainy/styczen25/obj/Debug/net10.0/styczen25.genruntimeconfig.cache
+/home/filip/egzmainy/styczen25/obj/Debug/net10.0/ref/styczen25.dll
