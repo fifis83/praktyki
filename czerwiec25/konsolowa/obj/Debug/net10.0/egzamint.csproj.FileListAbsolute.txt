@@ -1,0 +1,14 @@
+D:\egzamint\bin\Debug\net10.0\egzamint.exe
+D:\egzamint\bin\Debug\net10.0\egzamint.deps.json
+D:\egzamint\bin\Debug\net10.0\egzamint.runtimeconfig.json
+D:\egzamint\bin\Debug\net10.0\egzamint.dll
+D:\egzamint\bin\Debug\net10.0\egzamint.pdb
+D:\egzamint\obj\Debug\net10.0\egzamint.GeneratedMSBuildEditorConfig.editorconfig
+D:\egzamint\obj\Debug\net10.0\egzamint.AssemblyInfoInputs.cache
+D:\egzamint\obj\Debug\net10.0\egzamint.AssemblyInfo.cs
+D:\egzamint\obj\Debug\net10.0\egzamint.csproj.CoreCompileInputs.cache
+D:\egzamint\obj\Debug\net10.0\egzamint.dll
+D:\egzamint\obj\Debug\net10.0\refint\egzamint.dll
+D:\egzamint\obj\Debug\net10.0\egzamint.pdb
+D:\egzamint\obj\Debug\net10.0\egzamint.genruntimeconfig.cache
+D:\egzamint\obj\Debug\net10.0\ref\egzamint.dll
