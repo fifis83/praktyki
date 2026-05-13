@@ -1,0 +1,15 @@
+d:\egzamint\praktyki\styczen23\bin\Debug\net10.0\styczen23.exe
+D:\egzamint\praktyki\styczen23\bin\Debug\net10.0\styczen23.deps.json
+D:\egzamint\praktyki\styczen23\bin\Debug\net10.0\styczen23.runtimeconfig.json
+d:\egzamint\praktyki\styczen23\bin\Debug\net10.0\styczen23.dll
+d:\egzamint\praktyki\styczen23\bin\Debug\net10.0\styczen23.pdb
+d:\egzamint\praktyki\styczen23\obj\Debug\net10.0\styczen23.GeneratedMSBuildEditorConfig.editorconfig
+d:\egzamint\praktyki\styczen23\obj\Debug\net10.0\styczen23.AssemblyInfoInputs.cache
+d:\egzamint\praktyki\styczen23\obj\Debug\net10.0\styczen23.AssemblyInfo.cs
+d:\egzamint\praktyki\styczen23\obj\Debug\net10.0\styczen23.csproj.CoreCompileInputs.cache
+d:\egzamint\praktyki\styczen23\obj\Debug\net10.0\styczen23.sourcelink.json
+d:\egzamint\praktyki\styczen23\obj\Debug\net10.0\styczen23.dll
+d:\egzamint\praktyki\styczen23\obj\Debug\net10.0\refint\styczen23.dll
+d:\egzamint\praktyki\styczen23\obj\Debug\net10.0\styczen23.pdb
+D:\egzamint\praktyki\styczen23\obj\Debug\net10.0\styczen23.genruntimeconfig.cache
+D:\egzamint\praktyki\styczen23\obj\Debug\net10.0\ref\styczen23.dll
