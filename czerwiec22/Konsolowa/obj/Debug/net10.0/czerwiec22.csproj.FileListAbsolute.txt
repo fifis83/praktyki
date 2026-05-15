@@ -1,0 +1,15 @@
+/home/filip/dev/praktyki/czerwiec22/bin/Debug/net10.0/czerwiec22
+/home/filip/dev/praktyki/czerwiec22/bin/Debug/net10.0/czerwiec22.deps.json
+/home/filip/dev/praktyki/czerwiec22/bin/Debug/net10.0/czerwiec22.runtimeconfig.json
+/home/filip/dev/praktyki/czerwiec22/bin/Debug/net10.0/czerwiec22.dll
+/home/filip/dev/praktyki/czerwiec22/bin/Debug/net10.0/czerwiec22.pdb
+/home/filip/dev/praktyki/czerwiec22/obj/Debug/net10.0/czerwiec22.GeneratedMSBuildEditorConfig.editorconfig
+/home/filip/dev/praktyki/czerwiec22/obj/Debug/net10.0/czerwiec22.AssemblyInfoInputs.cache
+/home/filip/dev/praktyki/czerwiec22/obj/Debug/net10.0/czerwiec22.AssemblyInfo.cs
+/home/filip/dev/praktyki/czerwiec22/obj/Debug/net10.0/czerwiec22.csproj.CoreCompileInputs.cache
+/home/filip/dev/praktyki/czerwiec22/obj/Debug/net10.0/czerwiec22.sourcelink.json
+/home/filip/dev/praktyki/czerwiec22/obj/Debug/net10.0/czerwiec22.dll
+/home/filip/dev/praktyki/czerwiec22/obj/Debug/net10.0/refint/czerwiec22.dll
+/home/filip/dev/praktyki/czerwiec22/obj/Debug/net10.0/czerwiec22.pdb
+/home/filip/dev/praktyki/czerwiec22/obj/Debug/net10.0/czerwiec22.genruntimeconfig.cache
+/home/filip/dev/praktyki/czerwiec22/obj/Debug/net10.0/ref/czerwiec22.dll
