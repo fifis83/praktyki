@@ -1,0 +1,15 @@
+E:\dev\praktyki\czerwiec25-2\konsolowa\bin\Debug\net10.0\konsolowa.exe
+E:\dev\praktyki\czerwiec25-2\konsolowa\bin\Debug\net10.0\konsolowa.deps.json
+E:\dev\praktyki\czerwiec25-2\konsolowa\bin\Debug\net10.0\konsolowa.runtimeconfig.json
+E:\dev\praktyki\czerwiec25-2\konsolowa\bin\Debug\net10.0\konsolowa.dll
+E:\dev\praktyki\czerwiec25-2\konsolowa\bin\Debug\net10.0\konsolowa.pdb
+E:\dev\praktyki\czerwiec25-2\konsolowa\obj\Debug\net10.0\konsolowa.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\praktyki\czerwiec25-2\konsolowa\obj\Debug\net10.0\konsolowa.AssemblyInfoInputs.cache
+E:\dev\praktyki\czerwiec25-2\konsolowa\obj\Debug\net10.0\konsolowa.AssemblyInfo.cs
+E:\dev\praktyki\czerwiec25-2\konsolowa\obj\Debug\net10.0\konsolowa.csproj.CoreCompileInputs.cache
+E:\dev\praktyki\czerwiec25-2\konsolowa\obj\Debug\net10.0\konsolowa.sourcelink.json
+E:\dev\praktyki\czerwiec25-2\konsolowa\obj\Debug\net10.0\konsolowa.dll
+E:\dev\praktyki\czerwiec25-2\konsolowa\obj\Debug\net10.0\refint\konsolowa.dll
+E:\dev\praktyki\czerwiec25-2\konsolowa\obj\Debug\net10.0\konsolowa.pdb
+E:\dev\praktyki\czerwiec25-2\konsolowa\obj\Debug\net10.0\konsolowa.genruntimeconfig.cache
+E:\dev\praktyki\czerwiec25-2\konsolowa\obj\Debug\net10.0\ref\konsolowa.dll

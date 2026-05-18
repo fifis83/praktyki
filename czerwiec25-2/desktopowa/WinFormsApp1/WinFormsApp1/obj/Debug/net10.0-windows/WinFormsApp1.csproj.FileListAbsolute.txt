@@ -1,0 +1,17 @@
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.exe
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.deps.json
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.runtimeconfig.json
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.dll
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.pdb
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.Form1.resources
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.sourcelink.json
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.dll
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\refint\WinFormsApp1.dll
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.pdb
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\dev\praktyki\czerwiec25-2\desktopowa\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ref\WinFormsApp1.dll
